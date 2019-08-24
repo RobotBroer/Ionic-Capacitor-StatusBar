@@ -1,0 +1,7 @@
+{
+  "name": "StatusBar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
